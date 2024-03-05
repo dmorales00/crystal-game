@@ -1,0 +1,157 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: MyTexts_es
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: es
+  m_SharedData: {fileID: 11400000, guid: b07b2f79206b5d44d80e7f920def18eb, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 6178188125171712
+    m_Localized: Jugar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6178354077003776
+    m_Localized: Tienda
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6178819468587008
+    m_Localized: Salir
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6178673078988800
+    m_Localized: Ajustes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6178491629203456
+    m_Localized: "Clasificaci\xF3n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6179490049716224
+    m_Localized: Volver
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6180097070362624
+    m_Localized: Aspectos
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6182563350474752
+    m_Localized: Idioma
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6180269376565248
+    m_Localized: Mejoras
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6180421046792192
+    m_Localized: 'Dinero:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6180921985101824
+    m_Localized: Volver
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6181780055814144
+    m_Localized: Volver
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6181154198548480
+    m_Localized: "Puntuaci\xF3n m\xE1s alta:"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6181437041438720
+    m_Localized: "\xDAltima puntuaci\xF3n:"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6182154896568320
+    m_Localized: Volumen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6182312128442368
+    m_Localized: Efectos
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6182432312029184
+    m_Localized: "M\xFAsica"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6210117310509056
+    m_Localized: Cargando
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6210811413295104
+    m_Localized: 'Vidas:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6210923619315712
+    m_Localized: 'Puntos:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6211771715973120
+    m_Localized: Reiniciar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6212145877250048
+    m_Localized: Pausado
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6212404896493568
+    m_Localized: "Men\xFA"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6212848762908672
+    m_Localized: Derrota
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6212958322323456
+    m_Localized: 'Dinero:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6213229966422016
+    m_Localized: 'Tiempo:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6213441027993600
+    m_Localized: "Puntuaci\xF3n:"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6213578798297088
+    m_Localized: Reintentar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6214096807424000
+    m_Localized: "Men\xFA principal"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7624930016260096
+    m_Localized: Borrar Partida
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7613633367273472
+    m_Localized: "Los datos de guardados borrados NO se podr\xE1n recuperar, por
+      lo que se perder\xE1n permanentemente todo el dinero, ajustes, clasificaciones
+      y contenido desbloqueado.\n\n\xBFSeguro que quieres borrar TODO tu progreso?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7625080017154048
+    m_Localized: Borrar Partida
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7625895960276992
+    m_Localized: No Borrar
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

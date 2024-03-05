@@ -1,0 +1,160 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: MyTexts Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: MyTexts
+  m_TableCollectionNameGuidString: b07b2f79206b5d44d80e7f920def18eb
+  m_Entries:
+  - m_Id: 6178819468587008
+    m_Key: ExitButton
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6178491629203456
+    m_Key: LeaderboardButton
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6180421046792192
+    m_Key: Money
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6180921985101824
+    m_Key: LeaderboardBackButton
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6178188125171712
+    m_Key: PlayButton
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6180269376565248
+    m_Key: PowerUps
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6178673078988800
+    m_Key: SettingsButton
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6179490049716224
+    m_Key: ShopBackButton
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6178354077003776
+    m_Key: ShopButton
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6180097070362624
+    m_Key: Skins
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6181154198548480
+    m_Key: HighestScore
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6181437041438720
+    m_Key: Last Score
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6181780055814144
+    m_Key: SettingsBackButton
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6182154896568320
+    m_Key: Volume
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6182312128442368
+    m_Key: EffectsText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6182432312029184
+    m_Key: MusicText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6182563350474752
+    m_Key: Language
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6210117310509056
+    m_Key: Loading
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6210811413295104
+    m_Key: UILifes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6210923619315712
+    m_Key: UIScore
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6211771715973120
+    m_Key: RestartButton
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6212145877250048
+    m_Key: PauseText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6212404896493568
+    m_Key: MenuButton
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6212848762908672
+    m_Key: Defeat Text
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6212958322323456
+    m_Key: Money Pause
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6213229966422016
+    m_Key: Time Pause
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6213441027993600
+    m_Key: Score Pause
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6213578798297088
+    m_Key: Play Again
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6214096807424000
+    m_Key: Menu pause button
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7613633367273472
+    m_Key: Delete_Save_Warn
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7624930016260096
+    m_Key: DeleteSaveButtn
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7625080017154048
+    m_Key: DefDeleteButtn
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7625895960276992
+    m_Key: Keep Save
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 1082893731965960216
+  references:
+    version: 2
+    RefIds:
+    - rid: 1082893731965960216
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1683281998643
